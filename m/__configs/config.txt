@@ -1,0 +1,22 @@
+% Fichier de configuration pour le traitement des données des caméras thermiques du Train 2
+
+dossier:
+nom_fichier_resultat:C:\Users\jaime\source\repos\MatlabReader\m\__results\DUO4_dev.txt
+Langue_enregistrement:FR
+type_cage_DUO=4
+temps_mini_acquisition(s)=4
+seuil_temperature(°C)=650
+pixel_size(m)=0.008
+largeur_mini_critique(m)=0.5
+pass_A_pixel_start=1
+pass_A_pixel_end=204
+pass_B_pixel_start=205
+pass_B_pixel_end=351
+pass_C_pixel_start=352
+pass_C_pixel_end=695
+
+
+% Version executable : Matlab runtime 2020a
+% Note : les limites des passes doivent respecter A<l1<B<l2<C avec l1<l2
+% inscrire 3 ou 4 pour type de cage DUO ex: pour DUO3 type_cage_DUO=3
+% Langue_enregistrement est soit FR pour français ou EN pour anglais 

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MatlabReader", "MatlabReader.csproj", "{D6104D9E-6ABA-43F6-9550-47A9164BF40E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cmdMatlab", "cmdMatlab\cmdMatlab.csproj", "{79953630-D8AF-449F-B5FE-AEA05F7C9675}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6104D9E-6ABA-43F6-9550-47A9164BF40E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6104D9E-6ABA-43F6-9550-47A9164BF40E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6104D9E-6ABA-43F6-9550-47A9164BF40E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6104D9E-6ABA-43F6-9550-47A9164BF40E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79953630-D8AF-449F-B5FE-AEA05F7C9675}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79953630-D8AF-449F-B5FE-AEA05F7C9675}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79953630-D8AF-449F-B5FE-AEA05F7C9675}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79953630-D8AF-449F-B5FE-AEA05F7C9675}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0ED00D15-6177-4A88-BA33-047AC76831FE}
+	EndGlobalSection
+EndGlobal

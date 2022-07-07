@@ -1,0 +1,4 @@
+Time_start,type de passe,Max_tr3,Moy_tr3,Max_tr1,Moy_tr1,Moy_web,Std_moy_web,Min_web,type de passe bis,Max_tr3_bis,Moy_tr3_bis,Max_tr1_bis,Moy_tr1_bis,Moy_web_bis,Std_moy_web_bis,Min_web_bis
+2022-05-21_08h26m02,C,880,812,896,844,851,13,824,abs,0,NaN,0,NaN,NaN,NaN,NaN
+2022-05-21_08h26m14,C,864,795,881,797,804,22,779,abs,0,NaN,0,NaN,NaN,NaN,NaN
+2022-05-21_08h27m23,C,767,740,786,745,746,4,725,abs,0,NaN,0,NaN,NaN,NaN,NaN
