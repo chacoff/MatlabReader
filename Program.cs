@@ -27,7 +27,7 @@ namespace MatlabReader
             // Call the MATLAB function myfunc
             var arg1 = "config.txt";
             var arg2 = "21.txt,22.txt,23.txt";
-            matlab.Feval(func, 1, out result, arg1, arg2); // 0 is the number of outputs of the matlab function
+            matlab.Feval(func, 1, out result, arg1, arg2); // 1 is the number of outputs of the matlab function
 
             // Display result 
             object[] res = result as object[];
